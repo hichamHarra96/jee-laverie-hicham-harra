@@ -1,8 +1,9 @@
-# Eclipse Starter for Jakarta EE
-
+# JEE Laverie Hicham HARRA
+## Installation
 ```
 mvn install      
 ```
+
 ## Ce qui a été fait :
 * trois endpoints d’authentification. ( géneration de Token durant login en utilisant Jwts).
 * 4 endpoints CRUD.
